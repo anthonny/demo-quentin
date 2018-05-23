@@ -14,7 +14,12 @@
 
 === Slide vertical 1.1
 
-== Slide 2
+== Slide 2 avec notes
+
+[NOTE.speaker]
+--
+C'est un superbe deck
+--
 
 == Slide 3 BG Title
 

@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://anthonny.github.io/demo-quentin",
+    "hubpress": "https://anthonny.github.io/demo-quentin",
+    "theme": "//anthonny.github.io/demo-quentin/themes/casper",
+    "images": "https://anthonny.github.io/demo-quentin/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }

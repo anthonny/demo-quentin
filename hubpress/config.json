@@ -1,8 +1,8 @@
 {
   "meta": {
-    "username": "your-username",
-    "repositoryName": "your-repository",
-    "branch": "your-branch"
+    "username": "anthonny",
+    "repositoryName": "demo-quentin",
+    "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"

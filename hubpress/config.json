@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://anthonny.github.io/demo-quentin",
-    "hubpress": "https://anthonny.github.io/demo-quentin",
-    "theme": "//anthonny.github.io/demo-quentin/themes/casper",
-    "images": "https://anthonny.github.io/demo-quentin/images"
+    "site": "http://quentin.anthonnyquerouil.fr",
+    "hubpress": "https://quentin.anthonnyquerouil.fr",
+    "theme": "//quentin.anthonnyquerouil.fr/themes/casper",
+    "images": "http://quentin.anthonnyquerouil.fr/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",

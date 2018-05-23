@@ -1,0 +1,43 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-type: deck
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Example deck
+:hp-type: deck
+:revealjs_theme: night
+
+== Slide 1
+
+=== Slide vertical 1.1
+
+== Slide 2
+
+== Slide 3 BG Title
+
+image::https://images.pexels.com/photos/490411/pexels-photo-490411.jpeg?cs=srgb&dl=road-landscape-nature-490411.jpg&fm=jpg[background, size=cover]
+
+[%notitle]
+== Slide 3 BG NoTitle
+
+image::https://images.pexels.com/photos/490411/pexels-photo-490411.jpeg?cs=srgb&dl=road-landscape-nature-490411.jpg&fm=jpg[background, size=cover]
+
+== List
+
+* Element 1
+* Element 2
+* Element 3
+
+== List progressive
+
+[%step]
+* Element 1
+* Element 2
+* Element 3
+
+
+
+
